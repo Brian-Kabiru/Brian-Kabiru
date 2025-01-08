@@ -18,5 +18,5 @@
 
 📬 Let’s Connect! 
 - Email: [kabirubrian001@gmail.com](mailto:kabirubrian001@gmail.com)  
-- LinkedIn: 
-- GitHub: 
+- LinkedIn: linkedin.com/in/brian-kabiru-957225232
+- GitHub: Brian-Kabiru 
