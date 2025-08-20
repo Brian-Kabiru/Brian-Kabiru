@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Kabiru Brian!
 
-🌱 Software Engineer | Full Stack Developer | Mobile Developer | AI & IoT Enthusiast
-💻 Passionate about building impactful solutions in all areas of life, agriculture, IoT, and beyond.
+🌱 Software Engineer |  AI & ML Engineer | Full Stack Developer | IoT Enthusiast
+💻 Passionate about building impactful solutions in all areas of life and beyond.
 
 ## 🚀 Skills
 - Web Development: ReactJS, NodeJS, ExpressJS
